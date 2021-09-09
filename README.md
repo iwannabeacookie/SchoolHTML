@@ -1,2 +1,0 @@
-# SchoolHTML
-HTML School Project
